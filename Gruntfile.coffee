@@ -21,7 +21,7 @@ module.exports = (grunt)->
                     #imported is very important. Hence, we only grunt one
                     #top-level sass file, and let it @import the rest so that
                     #their order can be strictly determined.
-                    "build/debug/css/page.css":"sass/page.sass"
+                    "build/debug/css/page.css":"sass/main.sass"
         coffee:
             debug:
                 options:

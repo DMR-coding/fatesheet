@@ -1,4 +1,7 @@
 define
-    root:
-        string1: "Hello world!"
-        string2: "Goodbye cruel world!"
+	root:
+		title: "Fate Core"
+		skills: "Skills"
+		stunts: "Stunts"
+		aspects: "Aspects"
+		phases: "Story Phases"

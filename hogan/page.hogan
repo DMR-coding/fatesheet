@@ -1,0 +1,30 @@
+	<img class='logo' src='img/Powered-by-Fate-Final-Light-BG.png' 
+		alt='Powered by Fate' />
+<h1 class='page-header'>
+	{{strings.title}}
+</h1>
+
+<h2 class='skills skills-header'>
+	{{strings.skills}}
+</h2>
+<div class='skills skills-main'>
+
+</div>
+<h2 class='stunts stunts-header'>
+	{{strings.stunts}}
+</h2>
+<div class='stunts stunts-main'>
+
+</div>
+<h2 class='aspects aspects-header'>
+	{{strings.aspects}}
+</h2>
+<div class='aspects aspects-main'>
+
+</div>
+<h2 class='phases phases-header'>
+	{{strings.phases}}
+</h2>
+<div class='phases phases-main'>
+
+</div>
